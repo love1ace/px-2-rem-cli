@@ -1,4 +1,4 @@
-name: Tmkr Publish
+name: Publish
 
 on:
   push:
