@@ -1,0 +1,38 @@
+{
+  "name": "px-to-rem-cli",
+  "version": "1.0.0",
+  "description": "px to rem in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/px-to-rem-cli.git"
+  },
+  "keywords": [
+    "px",
+    "rem",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/px-to-rem-cli/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/px-to-rem-cli#readme",
+  "bin": {
+    "px-to-rem": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
