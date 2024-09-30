@@ -28,7 +28,7 @@
   ],
   "homepage": "https://github.com/love1ace/px2rem-cli#readme",
   "bin": {
-    "px2rem": "index.js"
+    "px2rem-cli": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},
