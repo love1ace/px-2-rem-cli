@@ -1,6 +1,6 @@
 {
   "name": "px2rem-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "px to rem in cli",
   "main": "index.js",
   "license": "MIT",
