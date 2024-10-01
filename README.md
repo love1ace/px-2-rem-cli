@@ -1,18 +1,18 @@
-# p2rc
+# px-to-rem-cli
 
-**p2rc** is a CLI tool that converts pixels (px) to rem units.
+**px-to-rem-cli** is a CLI tool that converts pixels (px) to rem units.
 
-![npm](https://img.shields.io/npm/v/p2rc)
-![license](https://img.shields.io/npm/l/p2rc)
+![npm](https://img.shields.io/npm/v/px-to-rem-cli)
+![license](https://img.shields.io/npm/l/px-to-rem-cli)
 
 
 ## Quick Start
 
-Get **p2rc** up and running quickly!
+Get **px-to-rem-cli** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx p2rc 18
+    npx px-to-rem-cli 18
     ```
 2. **Done!**
 
@@ -22,12 +22,12 @@ Get **p2rc** up and running quickly!
 - You can change the base font size by adding a second argument:
 
     ```bash
-    npx p2rc 18 18
+    npx px-to-rem-cli 18 18
     ```
 
 ## Contributing
 
-We welcome contributions to **p2rc**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **px-to-rem-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 

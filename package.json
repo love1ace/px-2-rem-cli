@@ -1,5 +1,5 @@
 {
-  "name": "p2rc",
+  "name": "px-to-rem-cli",
   "version": "1.0.1",
   "description": "px to rem in cli",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/p2rc.git"
+    "url": "https://github.com/love1ace/px-to-rem-cli.git"
   },
   "keywords": [
     "px",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/p2rc/issues"
+    "url": "https://github.com/love1ace/px-to-rem-cli/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/p2rc#readme",
+  "homepage": "https://github.com/love1ace/px-to-rem-cli#readme",
   "bin": {
-    "p2rc": "index.js"
+    "px-to-rem-cli": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},
