@@ -1,18 +1,18 @@
-# px-to-rem-cli
+# px-2-rem-cli
 
-**px-to-rem-cli** is a CLI tool that converts pixels (px) to rem units.
+**px-2-rem-cli** is a CLI tool that converts pixels (px) to rem units.
 
-![npm](https://img.shields.io/npm/v/px-to-rem-cli)
-![license](https://img.shields.io/npm/l/px-to-rem-cli)
+![npm](https://img.shields.io/npm/v/px-2-rem-cli)
+![license](https://img.shields.io/npm/l/px-2-rem-cli)
 
 
 ## Quick Start
 
-Get **px-to-rem-cli** up and running quickly!
+Get **px-2-rem-cli** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx px-to-rem-cli 18
+    npx px-2-rem-cli 18
     ```
 2. **Done!**
 
@@ -22,12 +22,12 @@ Get **px-to-rem-cli** up and running quickly!
 - You can change the base font size by adding a second argument:
 
     ```bash
-    npx px-to-rem-cli 18 18
+    npx px-2-rem-cli 18 18
     ```
 
 ## Contributing
 
-We welcome contributions to **px-to-rem-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **px-2-rem-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 

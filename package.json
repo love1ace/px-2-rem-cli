@@ -1,13 +1,13 @@
 {
-  "name": "px-to-rem-cli",
-  "version": "1.0.1",
+  "name": "px-2-rem-cli",
+  "version": "1.0.0",
   "description": "px to rem in cli",
   "main": "index.js",
   "license": "MIT",
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/px-to-rem-cli.git"
+    "url": "https://github.com/love1ace/px-2-rem-cli.git"
   },
   "keywords": [
     "px",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/px-to-rem-cli/issues"
+    "url": "https://github.com/love1ace/px-2-rem-cli/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/px-to-rem-cli#readme",
+  "homepage": "https://github.com/love1ace/px-2-rem-cli#readme",
   "bin": {
-    "px-to-rem-cli": "index.js"
+    "px-2-rem-cli": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},
